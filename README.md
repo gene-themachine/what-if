@@ -1,5 +1,5 @@
 # WHAT IF
-<img src="./pictures/num1.png" alt="alt text" width="300"/><img src="./pictures/num2.png" alt="alt text" width="300"/><img src="./pictures/num3.png" alt="alt text" width="300"/><img src="./pictures/num4.png" alt="alt text" width="300"/>
+<img src="./pictures/num1.png" alt="alt text" width="300"/><img src="./pictures/num2.png" alt="alt text" width="300"/><img src="./pictures/num3.png" alt="alt text" width="300"/>
 # **Embark on a journey of curiousity and creativity**
 
 
