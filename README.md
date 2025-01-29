@@ -1,12 +1,12 @@
 # what if
-<img src="./pictures/num1.png" alt="alt text" width="300"/><img src="./pictures/num2.png" alt="alt text" width="300"/><img src="./pictures/num3.png" alt="alt text" width="300"/>
+<img src="./pictures/num1.png" alt="alt text" width="300"/><img src="./pictures/num2.png" alt="alt text" width="300"/>
 # **Embark on a journey of curiousity and creativity**
 
 
 
 **note: This is a simple web application for now. There will be further refinement, and the mobile version with SwiftUI has not been implemented or updated since august of 2024.**
 
-DEPLOYED-URL: [WHAT IF](https://whatif.onrender.com/)
+DEPLOYED-URL: [WHAT IF](https://what-if-72gt.onrender.com)
 Figma Link for phone design. [FIGMA](https://www.figma.com/design/G6O3N00KQlUa1w6VNPC03l/What-if?node-id=0-1&t=CdRa0vTsUsB1f2cJ-1)
 
 what if is a web application designed for users to explore hypothetical scenarios and share their thoughts. Users can create posts starting with "What if..." and engage with others' posts. 
