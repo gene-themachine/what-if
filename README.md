@@ -1,9 +1,9 @@
 # what if
-![alt text](./pictures/num4.png)
-<img src="./pictures/num1.png" alt="alt text" width="333"/><img src="./pictures/num2.png" alt="alt text" width="333"/><img src="./pictures/num3.png" alt="alt text" width="333"/>
+
+
 
 # **Embark on a journey of curiousity and creativity**
-
+![alt text](./pictures/num4.png)
 
 
 **note: This is a simple web application for now. There will be further refinement, and the mobile version with SwiftUI has not been implemented or updated since august of 2024.**
@@ -21,7 +21,7 @@ I've been interested by the idea of exploring hypothetical scenarios and wanted 
 
 - **User Interaction**: Users can create posts starting with "What if..." and share their thoughts. Other users can view and interact with the latest posts by commenting and in the future, like and share the posts. 
 
-
+<img src="./pictures/num1.png" alt="alt text" width="333"/><img src="./pictures/num2.png" alt="alt text" width="333"/><img src="./pictures/num3.png" alt="alt text" width="333"/>
 ## Technologies Used
 
 - **Frontend**: 
