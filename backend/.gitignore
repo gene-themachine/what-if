@@ -1,1 +1,7 @@
+# Environment variables
+.env
+# Dependency directories
 node_modules
+# Temporary files
+*.tmp
+*.temp
