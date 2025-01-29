@@ -21,7 +21,7 @@ I've been interested by the idea of exploring hypothetical scenarios and wanted 
 
 - **User Interaction**: Users can create posts starting with "What if..." and share their thoughts. Other users can view and interact with the latest posts by commenting and in the future, like and share the posts. 
 
-<img src="./pictures/num1.png" alt="alt text" width="320"/><img src="./pictures/num2.png" alt="alt text" width="320"/><img src="./pictures/num3.png" alt="alt text" width="320"/>
+<img src="./pictures/num1.png" alt="alt text" width="320"/><img src="./pictures/num3.png" alt="alt text" width="320"/>
 ## Technologies Used
 
 - **Frontend**: 
