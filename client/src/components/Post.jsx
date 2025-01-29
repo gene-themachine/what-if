@@ -1,17 +1,26 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faComment } from '@fortawesome/free-solid-svg-icons';
+
+const Post = (props) => {
 
 
-
-
-
-const Post = () => {
     return (
         <div id = "post-container">
-            <h3 id = "post-title">What if Biden was elected in 2024?</h3>
-            
-            <div id = "post-image-container">
-                <img id = "post-image" src = "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQJ_XZA--MtnEx-yZsvKIq4-LPV8viWcTWRZW02NaMAWlaaERWgfI2rv9u2QivB6hmnsboOfVNiKY6uvWI" alt = "Biden" />
+            <div id = "post-text-container">    
+                <h3 id = "posts-title">{props.post.title}</h3>
             </div>
             
+            <div id = "post-image-container">
+                <img id = "post-image" src = {props.post.image} alt = {`${props.post.image}`} />
+            </div>
+
+            <div className="post-icons">
+                <div className="icon">
+                    <FontAwesomeIcon icon={faComment} />
+                    <span className = "icon-text">{props.post.comments.length}</span>
+                </div>
+               
+            </div>
         </div>
     )
 }
