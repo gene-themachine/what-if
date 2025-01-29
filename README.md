@@ -1,5 +1,6 @@
 # what if
 <img src="./pictures/num1.png" alt="alt text" width="300"/><img src="./pictures/num2.png" alt="alt text" width="300"/>
+![alt text](./pictures/num4.png)
 # **Embark on a journey of curiousity and creativity**
 
 
@@ -13,7 +14,7 @@ what if is a web application designed for users to explore hypothetical scenario
 
 I've been interested by the idea of exploring hypothetical scenarios and wanted to create a platform where people can share and discuss their "What if" ideas, ranging from wide variety of topics, including politics, science, and technology. Whether it's a simple thought or a detailed exploration, realitic or fictional, users can express their creativity and engage with others.
 
-
+![alt text](./pictures/num5.png)
 
 ## Features
 
