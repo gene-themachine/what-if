@@ -1,5 +1,5 @@
 # WHAT IF
-![alt text](./pictures/num1.png)
+<img src="./pictures/num1.png" alt="alt text" width="300"/>
 # **Embark on a journey of curiousity and creativity**
 
 ![alt text](./pictures/num2.png)
