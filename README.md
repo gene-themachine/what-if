@@ -1,6 +1,7 @@
 # what if
-<img src="./pictures/num1.png" alt="alt text" width="333"/><img src="./pictures/num2.png" alt="alt text" width="333"/><img src="./pictures/num3.png" alt="alt text" width="333"/>
 ![alt text](./pictures/num4.png)
+<img src="./pictures/num1.png" alt="alt text" width="333"/><img src="./pictures/num2.png" alt="alt text" width="333"/><img src="./pictures/num3.png" alt="alt text" width="333"/>
+
 # **Embark on a journey of curiousity and creativity**
 
 
