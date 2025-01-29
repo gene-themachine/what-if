@@ -1,8 +1,8 @@
 # WHAT IF
-<img src="./pictures/num1.png" alt="alt text" width="300"/>
+<img src="./pictures/num1.png" alt="alt text" width="300"/><img src="./pictures/num2.png" alt="alt text" width="300"/><img src="./pictures/num3.png" alt="alt text" width="300"/><img src="./pictures/num4.png" alt="alt text" width="300"/>
 # **Embark on a journey of curiousity and creativity**
 
-![alt text](./pictures/num2.png)
+
 
 **note: This is a simple web application for now. There will be further refinement, and the mobile version with SwiftUI has not been implemented or updated since august of 2024.**
 
@@ -11,18 +11,13 @@ Figma Link for phone design. [FIGMA](https://www.figma.com/design/G6O3N00KQlUa1w
 
 what if is a web application designed for users to explore hypothetical scenarios and share their thoughts. Users can create posts starting with "What if..." and engage with others' posts. 
 
-I've  been fascinated by the idea of exploring hypothetical scenarios and wanted to create a platform where people can share and discuss their "What if" ideas, ranging from wide variety of topics, including politics, science, and technology. Whether it's a simple thought or a detailed exploration, realitic or fictional, users can express their creativity and engage with others.
-
+I've been interested by the idea of exploring hypothetical scenarios and wanted to create a platform where people can share and discuss their "What if" ideas, ranging from wide variety of topics, including politics, science, and technology. Whether it's a simple thought or a detailed exploration, realitic or fictional, users can express their creativity and engage with others.
 
 
 
 ## Features
 
 - **User Interaction**: Users can create posts starting with "What if..." and share their thoughts. Other users can view and interact with the latest posts by commenting and in the future, like and share the posts. 
-
-
-
-![alt text](./pictures/num3.png)
 
 
 ## Technologies Used
@@ -90,6 +85,3 @@ I have several plans for future improvements:
 - Enhance the design with animations and improved aesthetics.
 - Introduce a feature to categorize posts based on topics or themes.
 
----
-
-Feel free to explore the app and share your "What if" ideas!
